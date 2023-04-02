@@ -1,0 +1,13 @@
+.avatar {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	display: flex;
+	
+}
+
+.presentation {
+	display: flex;  
+	flex-wrap: wrap;
+	margin: 40px 10px;
+}
